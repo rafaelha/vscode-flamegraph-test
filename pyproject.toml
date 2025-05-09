@@ -8,7 +8,6 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.11"
 ray = "^2.41.0"
-qutip = "^5.1.1"
 matplotlib = "^3.10.0"
 jupyter = "^1.1.1"
 numpy = "^2.2.2"
